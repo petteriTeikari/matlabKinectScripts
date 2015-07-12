@@ -12,4 +12,7 @@ If you had hit the following error, you can just use pre-built binaries:
 
     mex: compile of ' "mxNiChangeDepthViewPoint.cpp"' failed.
 
+For some insights see also "Kinect for Ubuntu with Matlab Wrapper" by Ujwal D. Bonde
+https://github.com/wgardner6/MatlabKinect/blob/master/KinectInstallationUbuntuBonde.pdf
+
 Note: The examples are not included here, but you can download them from the original submission: http://www.mathworks.com/matlabcentral/fileexchange/30242-kinect-matlab
