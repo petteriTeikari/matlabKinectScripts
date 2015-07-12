@@ -11,3 +11,5 @@ If you had hit the following error, you can just use pre-built binaries:
          g_DepthGenerator.GetAlternativeViewPointCap().SetViewPoint(g_Image);
 
     mex: compile of ' "mxNiChangeDepthViewPoint.cpp"' failed.
+
+Note: The examples are not included here, but you can download them from the original submission: http://www.mathworks.com/matlabcentral/fileexchange/30242-kinect-matlab
